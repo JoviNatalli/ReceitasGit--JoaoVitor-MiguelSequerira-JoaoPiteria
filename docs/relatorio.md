@@ -10,13 +10,15 @@
 - Todos os merges foram feitos via Pull Request (PR). Cada PR passou por revisão de pelo menos um integrante do grupo antes de ser aprovado e deslocado para a main.
 
 ## Histórico de Commits
-- <img width="1470" height="956" alt="Captura de Tela 2025-12-01 às 01 01 03" src="https://github.com/user-attachments/assets/aa4e2541-1bdc-4b2b-a9fd-40334e7f1a30" />
+- <img width="1293" height="883" alt="Captura de Tela 2025-12-01 às 01 04 30" src="https://github.com/user-attachments/assets/da3e3948-7dd1-438c-afe5-fb5744cf8875" />
 
-- Print ou link do gráfico de contribuições.
+
+- [Print ou link do gráfico de contribuições.](https://github.com/JoviNatalli/ReceitasGit--JoaoVitor-MiguelSequeira-JoaoPiteira/graphs/contributors)
+- (link para o grafico das contribuições)
 
 ## Issues Criadas
 
-<img width="1470" height="956" alt="Captura de Tela 2025-12-01 às 01 03 06" src="https://github.com/user-attachments/assets/f8a6beb2-310b-4a8f-bf2f-6a13cdbb65cc" />
+- <img width="1201" height="585" alt="Captura de Tela 2025-12-01 às 01 06 37" src="https://github.com/user-attachments/assets/8d12be48-36b6-478d-8f93-34bc876d4305" />
 
 ## Pull Requests
 Cada PR foi criado a partir de uma branch de receitas e revisado por outro integrante antes do merge.
