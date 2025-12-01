@@ -29,10 +29,22 @@ PRs incluíam descrição detalhada das alterações e referência às issues co
 
 
 ## Conflitos e Resoluções
-Explique se houve conflitos e como foram resolvidos.
+1. Origem do Conflito Durante o processo de Pull Request, foram detetados conflitos de fusão (merge conflicts) nos ficheiros do projeto. Esta situação ocorreu porque houve alterações concorrentes nas mesmas linhas de código (neste caso, nas receitas) em dois branches distintos:
 
+    O branch de destino (main) sofreu atualizações (commits) no mesmo trecho do ficheiro enquanto o branch de funcionalidade (feature) estava a ser desenvolvido.
 
+    Devido a esta divergência paralela, o algoritmo de merge automático do Git não conseguiu determinar qual a versão prevalente.
 
+2. Metodologia de Resolução A resolução foi efetuada diretamente na interface do GitHub através dos seguintes passos:
+
+    Identificação: Localização dos blocos de código em conflito, delimitados pelos marcadores de versão (<<<<<<<, =======, >>>>>>>).
+
+    Seleção: Análise das divergências e decisão manual pela versão correta a manter (a nova implementação da funcionalidade).
+
+    Limpeza: Remoção do código obsoleto e dos marcadores de conflito gerados pelo Git.
+
+    Consolidação: Realização do commit de resolução (merge commit), permitindo a finalização e integração do Pull Request sem erros.
+   
 ## Dificuldades Enfrentadas
 Aprender a organizar branches de forma eficiente.
 Ajustar o layout para que todas as receitas ficassem padronizadas.
