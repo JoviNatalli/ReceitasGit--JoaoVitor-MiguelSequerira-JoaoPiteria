@@ -13,7 +13,7 @@
 - <img width="1293" height="883" alt="Captura de Tela 2025-12-01 às 01 04 30" src="https://github.com/user-attachments/assets/da3e3948-7dd1-438c-afe5-fb5744cf8875" />
 
 
-- [Print ou link do gráfico de contribuições.](https://github.com/JoviNatalli/ReceitasGit--JoaoVitor-MiguelSequeira-JoaoPiteira/graphs/contributors)
+- (https://github.com/JoviNatalli/ReceitasGit--JoaoVitor-MiguelSequeira-JoaoPiteira/graphs/contributors)
 - (link para o grafico das contribuições)
 
 ## Issues Criadas
