@@ -1,13 +1,13 @@
 # Relatório Final - Página Colaborativa de Receitas
 
 ## Integrantes do Grupo
-- Nome do projeto:
-- Integrantes:
-- Repositório: [link]
-
+- Nome do projeto: ReceitasGit--JoaoVitor-MiguelSequeira-JoaoPiteira
+- Integrantes: Joao Vitor , Miguel Sequeira , Joao Piteira
+- Repositório: https://github.com/JoviNatalli/ReceitasGit--JoaoVitor-MiguelSequeira-JoaoPiteira
+  
 ## Branches Criadas
-- Descreva as branches criadas e o objetivo de cada uma.
-- Informe como os merges foram realizados (com PR? Revisão?).
+- As branches foram criadas para indicar receitas de pratos , cada branch tem como função suportar a receita do prato.
+- Todos os merges foram feitos via Pull Request (PR). Cada PR passou por revisão de pelo menos um integrante do grupo antes de ser aprovado e deslocado para a main.
 
 ## Histórico de Commits
 - Exemplo de boas mensagens de commit.
